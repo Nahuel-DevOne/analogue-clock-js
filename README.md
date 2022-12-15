@@ -11,7 +11,7 @@ El proyecto es un reloj digital hecho con Canvas y JavaScript.
 
 ## *Version 1.0.0:*
 
-- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://...)
+- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=github&logoColor=fff&color=23272d)](https://nahuel-devone.github.io/analogue-clock-js/)
 
 
 ## *Desarrollado con:*
